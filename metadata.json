@@ -1,0 +1,6 @@
+{
+  "name": "Audio-to-MIDI & Chords Finder",
+  "description": "Real-time chord recognition, pitch-to-MIDI conversion, audio DSP engine, and native Android architecture guide with Oboe and AdMob integration.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
